@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is the capital of India?",
+    "options": ["Mumbai", "Delhi", "Kolkata", "Chennai"],
+    "answer": "Delhi"
+  },
+  {
+    "question": "What is the full form of HTML?",
+    "options": [
+      "Hyper Text Markup Language",
+      "High Text Machine Language",
+      "Hyper Tool Markup Language",
+      "Home Text Markup Language"
+    ],
+    "answer": "Hyper Text Markup Language"
+  },
+  {
+    "question": "JavaScript is used for?",
+    "options": [
+      "Styling",
+      "Programming",
+      "Database",
+      "Operating System"
+    ],
+    "answer": "Programming"
+  },
+  {
+    "question": "What is 2 + 2?",
+    "options": ["3", "4", "5", "6"],
+    "answer": "4"
+  },
+  {
+    "question": "CSS is used for?",
+    "options": [
+      "Design and Styling",
+      "Database",
+      "Server",
+      "Game"
+    ],
+    "answer": "Design and Styling"
+  }
+]
